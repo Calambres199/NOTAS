@@ -1,5 +1,3 @@
-# README.md
-
 # Proposito de la materia
 
 - Durante el curso estaremos haciendo problemas de combinatoria en el que tendremos que usar codigos para facilitar su resolucion
