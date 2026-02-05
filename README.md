@@ -10,6 +10,6 @@
 -  ¿Cuándo existe un emparejamiento perfecto en un grafo bipartito?
 -  Existe un **emparejamiento perfecto** de $X$ a $Y$ **si y sólo si** para todo subconjunto $A \subseteq X$, se cumple: $|A| \subseteq |N(A)|$
 - ## Mi proposito 😆
--  Aprender a usar mas esta pagina, lo cual es muy interesante y funcional. Tambien a poder a programar de manera mas eficiente. 😆 
-
-HOLAAAAAAAAA
+-  Aprender a usar mas esta pagina, lo cual es muy interesante y funcional. Tambien a poder a programar de manera mas eficiente. 😆
+-  la grafica $G$
+-  
