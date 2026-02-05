@@ -22,4 +22,4 @@
 
 -  Aprender a usar mas esta pagina, lo cual es muy interesante y funcional. Tambien a poder a programar de manera mas eficiente. 😆
 -  la grafica $G$
--  la formula $$ a = \display{b}{c} $$
+-  la formula $$ a= \frac{b}{c} $$
